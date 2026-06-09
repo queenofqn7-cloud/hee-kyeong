@@ -1,0 +1,6 @@
+{
+  "name": "한희경강사 - 생성형 AI 활용 교육",
+  "description": "비전공자도 이해하는 실전 AI 교육전문가 한희경강사 생성형 AI 및 ChatGPT 교육 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
